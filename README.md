@@ -82,7 +82,9 @@ OCR失敗時のフォールバック処理
 個人事業主
 経理担当者
 レシート管理を自動化したい人
-
+![screenshot](screen01.png)
+![screenshot](screen02.png)
+![screenshot](screen03.png)
 🔮 今後の改善
 CSV出力（経費一覧）
 GUI対応（クリック操作）
