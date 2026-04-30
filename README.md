@@ -24,12 +24,12 @@
 ## 🖥️ 動作イメージ
 
 
-```input_box/
+input_box/
 └─ receipt1.jpg```
 
 ↓ 実行
 
-```archive/
+archive/
 └─ 2026-04/
 └─ 2026-04-12_取引先_1200.pdf```
 
