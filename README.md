@@ -58,7 +58,7 @@ archive/
 
 ### ① 必要ライブラリ
 
-```bash
+bash
 pip install pytesseract pdf2image pillow langchain langchain-ollama
 ② 外部ツールのインストール
 ■ Tesseract OCR
